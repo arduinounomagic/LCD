@@ -1,3 +1,12 @@
+/*
+*How to use LCD with Arduino uno
+*This video describes how different commands such as print, display, noDisplay, cursor, noCursor, blink, clear works with the help of Arduino Uno to display something on LCD.
+*
+*Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*/
+
+
 #include<LiquidCrystal.h>
 LiquidCrystal ARDUINO_LCD(8, 2, 7, 6, 5, 4);// Set RS pin=8, Enable pin=2, D4=7, D5=6, D6=5, d7=4.  
 
