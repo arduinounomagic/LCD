@@ -2,11 +2,10 @@
 *How to use LCD with Arduino uno
 *This video describes how different commands such as print, display, noDisplay, cursor, noCursor, blink, clear works with the help of Arduino Uno to display something on LCD.
 *
-*for more detail about this project please visit:
-*https://arduinounomagic.blogspot.com/2019/01/how-to-use-lcd-with-arduino-uno.html
+*for more detail about this project please visit:https://arduinounomagic.com/2019/01/how-to-use-lcd-with-arduino-uno.html
 *
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
-*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com/
 */
 
 
